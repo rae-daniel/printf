@@ -45,4 +45,3 @@ int  main() {
     printf("\nTotal characters printed: %d\n", count);
     return 0;
 }
-
